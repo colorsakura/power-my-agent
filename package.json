@@ -1,0 +1,21 @@
+{
+  "name": "power-my-agent",
+  "keywords": [
+    "pi-package"
+  ],
+  "dependencies": {},
+  "pi": {
+    "extensions": [
+      "extensions"
+    ],
+    "skills": [
+      "skills"
+    ],
+    "prompts": [
+      "prompts"
+    ],
+    "themes": [
+      "themes"
+    ]
+  }
+}
