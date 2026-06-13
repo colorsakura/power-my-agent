@@ -1,5 +1,9 @@
 # Power My Agent
 
+## ISSUES
+
+- [ ] `planning-and-task-breakdown` 不会自动写入文件
+
 ## Workflow
 
 来自 [agent-skills](https://github.com/addyosmani/agent-skills) 的工作流。
